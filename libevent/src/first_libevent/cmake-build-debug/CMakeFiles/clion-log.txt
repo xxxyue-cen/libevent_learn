@@ -1,0 +1,8 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/cy/Documents/first_libevent
+CMake Error at CMakeLists.txt:8 (target_link_libraries):
+  Cannot specify link libraries for target "first_libevent" which is not
+  built by this project.
+
+
+-- Configuring incomplete, errors occurred!
+See also "/Users/cy/Documents/first_libevent/cmake-build-debug/CMakeFiles/CMakeOutput.log".
